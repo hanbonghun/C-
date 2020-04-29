@@ -1,2 +1,3 @@
 # 
-Course application system
+Course registration system using c ++
+
