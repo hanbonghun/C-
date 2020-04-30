@@ -4,17 +4,25 @@
 # 실행
 
 ![213123](https://user-images.githubusercontent.com/33712528/80728612-18e53b80-8b42-11ea-9dd3-fa56b4e9d38a.PNG)
-![캡처](https://user-images.githubusercontent.com/33712528/80728618-1aaeff00-8b42-11ea-8ca0-6138050c2d94.PNG)
 students.txt 파일과 lectures.txt파일로부터 학생정보와 강의정보를 불러온다.
 <hr>
-![1](https://user-images.githubusercontent.com/33712528/80728624-1d115900-8b42-11ea-8ced-d5afcc70e349.PNG)
+
+![캡처](https://user-images.githubusercontent.com/33712528/80728618-1aaeff00-8b42-11ea-8ca0-6138050c2d94.PNG)
 학생 또는 관리자 모드로 로그인 할 수 있다.
 <hr>
-![2](https://user-images.githubusercontent.com/33712528/80728625-1d115900-8b42-11ea-8410-54a331ab6876.PNG)
+
+![1](https://user-images.githubusercontent.com/33712528/80728624-1d115900-8b42-11ea-8ced-d5afcc70e349.PNG)
 학생으로 로그인 했을 때 사용할 수 있는 기능들
-![3](https://user-images.githubusercontent.com/33712528/80728626-1da9ef80-8b42-11ea-82f0-160f24e1504e.PNG)
+<hr>
+
+![2](https://user-images.githubusercontent.com/33712528/80728625-1d115900-8b42-11ea-8410-54a331ab6876.PNG)
 수강신청에 성공했을 때 / 학생이 강의를 수강함에 따라 수강관련 학생정보, 강의정보가 수정된다.
 <hr>
+
+![3](https://user-images.githubusercontent.com/33712528/80728626-1da9ef80-8b42-11ea-82f0-160f24e1504e.PNG)
+관리자로 로그인 했을 때
+<hr>
+
 ![d](https://user-images.githubusercontent.com/33712528/80728628-1e428600-8b42-11ea-9715-4bed88dc1fff.PNG)
 관리자로 로그인 했을 때
 <hr>
