@@ -1,3 +1,2 @@
-# 
-Course registration system using c ++
-
+# Course registration system using c ++
+ c++을 활용하여 수강신청 시스템을 만들어보았다. c++에 대해 잘 알지 못하는 상태에서 구현한 많이 부족한 프로그램이지만 처음으로 무언가 제대로 동작하는 프로그램을 만들었다는 게 좋았다. 
